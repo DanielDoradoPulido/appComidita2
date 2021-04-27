@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FastRecipe</string>
+    <string name="title_home">Principal</string>
+    <string name="title_dashboard">Favoritas</string>
+    <string name="title_notifications">Ajustes</string>
+    <string name="web_client_id">jnk</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
